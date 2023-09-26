@@ -1,4 +1,4 @@
-# proyecto_IA_leo
+## proyecto_IA_leo
 - **Nombre:** Carlos Enrique Morales Rodriguez
   - **Cédula:** 1077420979
   - **Programa:** Ingeniería de Sistemas
